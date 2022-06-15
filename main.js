@@ -42,16 +42,6 @@ function heartClicked(heartParent) {
 
 
 
-// let arrow = document.querySelectorAll('.arrow');
-// for(var i = 0; i < arrow.length;i++){
-//     arrow[i].addEventListener('click', (e)=>{
-//         let arrowParent= e.target.parentElement.parentElement;
-//         arrowParent.classList.toggle("showMenu")
-//     })
-// }
-
-
-
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
 //------------------------------------------------------------------------------
